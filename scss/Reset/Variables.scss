@@ -1,0 +1,19 @@
+/* Definición de estilos de la web por medio de Custom properties */ 
+
+:root{
+    /* Colores principales */
+    --negro : #000000;
+    --gris  : #393939;
+    --blanco: white;
+  
+    /* Colores secundarios */
+    --lila: #AA00FF;
+    --lila-claro:#aa00ff8f;
+    --hover-fondo: #ffffffea;
+    --negro-trns:#000000e0;
+  
+    /* tipografias*/
+    
+    --tipo-principal: 'Roboto', sans-serif;
+    
+}
